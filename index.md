@@ -9,7 +9,7 @@ Creating new servises from Moscow.
 -programing, languages  
 
 # Skills
-- OS Windows,Ubuntu
+- OS Windows,linux
 - Languages（HTML, CSS, JavaScript）
 - Engine,Frameworks (Node.js, Expressなど)
 - Tool,MiddleWare（Git, PostgreSQLなど）
@@ -18,12 +18,6 @@ Creating new servises from Moscow.
 - [GitHub](https://tyulenin.github.io/)
 - [russia ryugaku](http://russia-ryugaku.ru/)  
 - [russia guide](https://www.moscowguide411.com/)  
-
-# Contact
-
-- [Twitter](TwitterプロフィールのURL)
-- [LinkedIn](LinkedInプロフィールのURL)
-- [Mail](mailto:メールアドレス)
 
 # History
 - 2020 STARTS Rus, Ltd. LLC  
