@@ -14,9 +14,8 @@ Creating new servises from Moscow.
 
 # Works
 - [GitHub](https://tyulenin.github.io/)
-- [Qiita](QiitaのURL)
-  - [russia ryugaku](http://russia-ryugaku.ru/)
-  - [russia guide](https://www.moscowguide411.com/)
+- [russia ryugaku](http://russia-ryugaku.ru/)  
+- [russia guide](https://www.moscowguide411.com/)  
 
 # Contact
 
