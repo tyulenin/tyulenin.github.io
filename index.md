@@ -1,4 +1,5 @@
 ![profile](Sankt-Peterburg-ff-777x582.jpg)
+
 # about 
 Creating new servises from Moscow.
 
@@ -29,3 +30,4 @@ Creating new servises from Moscow.
 - 2019 TTEC Japan 
 - 2015 Business BreakThrough University
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VN45wD2xfPE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
