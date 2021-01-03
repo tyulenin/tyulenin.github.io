@@ -1,12 +1,12 @@
 ![profile](Sankt-Peterburg-ff-777x582.jpg)
 
-# about 
-Creating new servises from Moscow.
+# About 
+Creating new services from Moscow.
 
 ## Profile
 -Name: Y.S.  
 -City: Moscow, Russia  
--programing, languages  
+-Programming, Russian, English  
 
 # Skills
 - OS Windows,linux
