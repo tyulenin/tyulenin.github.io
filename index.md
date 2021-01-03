@@ -25,7 +25,7 @@ Creating new servises from Moscow.
 - [Mail](mailto:メールアドレス)
 
 # History
-- 2020 [Starts Rus ltd]
+- 2020 STARTS Rus, Ltd. LLC  
 - 2019 TTEC Japan 
 - 2015 Business BreakThrough University
 
