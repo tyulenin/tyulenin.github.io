@@ -2,7 +2,7 @@
 Creating new servises from Moscow.
 
 ## Profile
--Name: Y.S.
+-Name: Y.S.  
 -City: Moscow, Russia  
 -programing, languages  
 
@@ -15,7 +15,6 @@ Creating new servises from Moscow.
 # Works
 - [GitHub](https://tyulenin.github.io/)
 - [Qiita](QiitaのURL)
-- 作った作品
   - [作品1](http://russia-ryugaku.ru/)
   - [作品2](https://www.moscowguide411.com/)
 
