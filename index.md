@@ -10,9 +10,8 @@ Creating new services from Moscow.
 
 # Skills
 - OS Windows,linux
-- Languages（HTML, CSS, JavaScript）
-- Engine,Frameworks (Node.js, Expressなど)
-- Tool,MiddleWare（Git, PostgreSQLなど）
+- PHP, HTML, CSS, JavaScript
+- Wordpress
 
 # Works
 - [GitHub](https://tyulenin.github.io/)
