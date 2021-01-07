@@ -21,7 +21,7 @@ Creating new services from Moscow.
 
 # History
 - 2020 STARTS Rus, Ltd. LLC  
-- 2019 TTEC Japan 
-- 2015 Business BreakThrough University
+- 2016-2020 Individual entrepreneur 
+- 2014 Business BreakThrough University
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/volkL5J5HvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
